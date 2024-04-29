@@ -1,2 +1,2 @@
 # playwright-poc
-A poc showcasing browser UI automation on playwright
+A poc showcasing browser UI automation on playwright.
